@@ -1,0 +1,4 @@
+linux
+qemu-images/
+*.qcow2
+.vscode/
